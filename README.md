@@ -6,4 +6,6 @@ Follow github.com/orbkit/orbkit/
 and 
 ```bash
 pip install scikit-image
+or 
+conda install scikit-image
 ```
