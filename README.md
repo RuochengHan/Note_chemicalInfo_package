@@ -5,9 +5,9 @@ Follow github.com/orbkit/orbkit/
 
 and 
 ```bash
-pip install scikit-image
+pip install scikit-image h5py # 0.21.0, 3.8.0
 or 
-conda install scikit-image
+conda install scikit-image h5py
 ```
 
 Weird points for **orbkit**:
